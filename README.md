@@ -47,15 +47,16 @@ These keys shall be avoided.
 DES has proved to be a very well designed block cipher.
 There have been no significant cryptanalytic attacks on DES other than exhaustive
 key search.
+
 ## Screenshots
-
-![](https://user-images.githubusercontent.com/44118554/140683299-c55945d6-ecde-4559-b1be-77b2ded80c8d.PNG)
-
-![](https://user-images.githubusercontent.com/44118554/140682830-896086f4-0ce5-44b2-b2cd-8cf13706126a.PNG)
 
 ![](https://user-images.githubusercontent.com/44118554/140682975-b5e00ef2-1604-4407-bfb7-c47bc826dc63.PNG)
 
+![](https://user-images.githubusercontent.com/44118554/140682830-896086f4-0ce5-44b2-b2cd-8cf13706126a.PNG)
+
 ![](https://user-images.githubusercontent.com/44118554/140683132-af39835c-db86-4a31-a7ad-566fc9c48add.PNG)
+
+![](https://user-images.githubusercontent.com/44118554/140683299-c55945d6-ecde-4559-b1be-77b2ded80c8d.PNG)
 
 ## Run Locally
 
