@@ -57,10 +57,7 @@ key search.
 
 ![](https://user-images.githubusercontent.com/44118554/140652814-a4a3d5b2-155a-4c26-9ae6-59635818ee3d.PNG)
 
-![](https://user-images.githubusercontent.com/44118554/140652672-f7464f75-6fbb-41f9-b35c-8138fbf7dc51.PNG)
-
-![](https://user-images.githubusercontent.com/44118554/140652725-794806e0-9411-4706-ae2c-d761c39c1eda.PNG)
-
+![](https://user-images.githubusercontent.com/44118554/140683132-af39835c-db86-4a31-a7ad-566fc9c48add.PNG)
 
 ## Run Locally
 
