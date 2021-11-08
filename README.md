@@ -83,7 +83,7 @@ Install dependencies
 
 ## Demo
 
-![GIF](https://i.makeagif.com/media/11-08-2021/1PDBjk.gif=250x)
+![GIF](https://i.makeagif.com/media/11-08-2021/1PDBjk.gif)
 
 
 ## Documentation
